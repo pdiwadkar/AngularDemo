@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid black;
+  }
+.excelButton{
+  background-color:red!important;
+  height: 50px;
+  text-align: right; 
+}
+
+  
